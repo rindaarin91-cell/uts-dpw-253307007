@@ -1,7 +1,7 @@
-NAMA  : ARINDA MARDIANTI
-NIM   : 253307007
-KELAS : 2A
-MATKUL: DESAIN PEMROGRAMAN WEB
+- NAMA  : ARINDA MARDIANTI
+- NIM   : 253307007
+- KELAS : 2A
+- MATKUL: DESAIN PEMROGRAMAN WEB
 
 Project Web Portal PPDB Aurora International School merupakan sebuah website pendaftaran siswa baru.  Website ini dirancang untuk memudahkan calon siswa dalam mendapatkan informasi pendaftaran sekaligus mengisi formulir secara online dengan lebih praktis.
 
