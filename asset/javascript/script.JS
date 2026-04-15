@@ -1,7 +1,3 @@
-// ============================================
-// script.js — Aurora International School
-// Portal PPDB | NIM: 253307007 | Arinda Mardianti
-// ============================================
 
 /**
  * Tampilkan Custom Toast Notification
